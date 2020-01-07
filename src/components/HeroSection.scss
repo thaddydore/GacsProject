@@ -1,0 +1,40 @@
+.HeroSection {
+  &__image {
+    margin: 0 auto;
+    max-width: 570px;
+  }
+}
+
+// .imageAni {
+//     /* width: 730px;
+//     height: 30rem; */
+//     animation: yabma 60s infinite;
+//     background-image: url("/image/fisheries.jpg");
+//     background-repeat: no-repeat;
+//     background-size: 100%;
+//     margin: 0;
+//     padding: 0;
+//   }
+  
+//   /* .yabma1 {
+//     animation: yabma 20s infinite;
+//     background-image: url("./assets/yabma1.png");
+//   }  */
+  
+//   @keyframes yabma {
+//     20% {
+//       background-image: url("/image/white.jpg");
+//     }
+//     40% {
+//       background-image: url("/image/vegetables.jpg");
+//     }
+//     60% {
+//       background-image: url("/image/forestry.jpg");
+//     }
+//     80% {
+//       background-image: url("/image/beauty.jpg");
+//     }
+//     100% {
+//       background-image: url("/image/fisheries.jpg");
+//     }
+//   }
