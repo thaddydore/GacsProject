@@ -1,5 +1,5 @@
 # GacsProject
-Agricultural Association website project. A project collaboration with devcraft1.
+Agricultural Association website project.  
 
 Run npm init
 Run npm install // to intsall node modules
